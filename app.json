@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "deliverro-clone",
+    "slug": "deliverro-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "deliverro-clone"
+}
